@@ -1,1 +1,27 @@
-/build
+# Ignore build files
+build/
+release/
+out/
+
+# Ignore Android Studio specific user settings
+.idea/
+*.iml
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore version control system files
+.git/
+.gitignore
+.gitmodules
+.hg/
+.svn/
+
+# Ignore log files
+*.log
+
+# Ignore specific files or folders from the provided directory
+H:\PROJECT\ANDROID\ANDROIDTEMPLATE\APP\-
+
+# Add additional entries here for other files or folders you want to ignore
